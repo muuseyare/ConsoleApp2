@@ -23,5 +23,6 @@ class Program
         Console.WriteLine($"Sex: {sex}");
         Console.WriteLine($"Telephone: {telephone}");
         Console.WriteLine($"Status: {status}");
+    
     }
 }
